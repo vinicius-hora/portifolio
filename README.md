@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -15,5 +15,3 @@
 ### Vinicius Bastos
 
 ### Linkedin: https://www.linkedin.com/in/vinicius-bastos-208ab7189/
-
-```
